@@ -1,1 +1,1 @@
-console.log();
+console.log(20 + 4 * 50);
