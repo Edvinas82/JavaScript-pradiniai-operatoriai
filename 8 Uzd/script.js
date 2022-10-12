@@ -1,0 +1,2 @@
+/*6 užduotyje - "15" reikšmė suprantama, kaip tekstas ir - nepridedamas, o užrašomas priešais "3 * 5" reikšmę.
+Tuo tarpu 7 užduotyje "15" jau suprantamas, kaip skaičius ir sumuojamas su "3 * 5" reikšme. */
